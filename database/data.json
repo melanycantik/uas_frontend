@@ -1,0 +1,133 @@
+{
+    "header": {
+        "img": "img/Home.jpeg",
+        "subjudul": "My Biodata",
+        "judul": "Arum Melany Karunia Putri",
+        "desk": "Nama Saya Arum Melany Karunia Putri, saya berumur 20 tahun. Saya adalah anak kedua dari dua bersaudara, saya kuliah di Stikom Pgri Banyuwangi, sekarang saya sudah menempuh semester 4.",
+        "button": "Selengkapnya"
+    },
+    "main1": {
+        "item": [
+            {
+                "icon": "flaticon-017-toy-car",
+                "judul": "Traveling",
+                "desk": "Saya sangat suka traveling, saya sudah traveling ke berbagai wisata yang ada di kota dan diluar kota,dan impian saya adalah dibromo..."
+            },
+            {
+                "icon": "flaticon-025-sandwich",
+                "judul": "Makanan",
+                "desk": "Saya sangat suka makan, dan saya sudah makan diberbagai tempat dikota-kota besar tapi entah kenapa makan banyak banyak tapi gak gemuk..."
+            },
+            {
+                "icon": "flaticon-047-backpack",
+                "judul": "Kuliah",
+                "desk": "Saya kuliah di Stikom PGRI Banyuwangi. di stikom saya mempunyai banyak teman tetapi menghilang semua hahaha"
+            }
+        ]
+    },
+    "main2": {
+        "title": "STIKOM PGRI BANYUWANGI",
+        "judul": "Dosen Favorite",
+        "item": [
+            {
+                "img": "img/dosen.jpeg",
+                "icon1": "fab fa-twitter",
+                "icon2": "fab fa-facebook-f",
+                "icon3": "fab fa-linkedin-in",
+                "nama": "Rachman Yulianto",
+                "keahlian": "Technoneurship"
+            },
+            {
+                "img": "img/dosen.jpeg",
+                "icon1": "fab fa-twitter",
+                "icon2": "fab fa-facebook-f",
+                "icon3": "fab fa-linkedin-in",
+                "nama": "Nur Ahmadi",
+                "keahlian": "Desain Animasi"
+            },
+            {
+                "img": "img/dosen.jpeg",
+                "icon1": "fab fa-twitter",
+                "icon2": "fab fa-facebook-f",
+                "icon3": "fab fa-linkedin-in",
+                "nama": "Faruq Alfiyan",
+                "keahlian": "Database non relasional"
+            },
+            {
+                "img": "img/dosen.jpeg",
+                "icon1": "fab fa-twitter",
+                "icon2": "fab fa-facebook-f",
+                "icon3": "fab fa-linkedin-in",
+                "nama": "Ulir Rifky",
+                "keahlian": "Python"
+            }
+        ]
+    },
+    "main3": {
+        "title": "Aktivitas",
+        "judul": "Aktivitas Mahasiswa",
+        "item": [
+            {
+                "img": "img/aktivitas.jpeg",
+                "judul": "Sosialisasi Narkoba/HIV AIDS",
+                "desk": "Pada acara diesnatalis yang dilaksanakan pada tanggal 16-17-18 juni saya berperan sebagai panitia sie konsumsi...",
+                "button": "Selengkapnya"
+            },
+            {
+                "img": "img/aktivitas2.jpeg",
+                "judul": "Seminar Donor Darah",
+                "desk": "pada acara Seminar Donor Darah yang dilaksanakan pada tanggal 24 juni saya berperan sebagai pantia sie Sekertaris...",
+                "button": "Selengkapnya"
+            },
+            {
+                "img": "img/aktivitas3.jpeg",
+                "judul": "Sertijap(Serah Terima Jabatan)",
+                "desk": "saya ikut serta dalam acara setijap yang dilaksanakan di songgon itu saya berperan sebagai panitia sie konsumsi...",
+                "button": "Selengkapnya"
+            }
+        ]
+    },
+    "footer": {
+        "item": [
+            {
+                "desk": "STIKOM BANYUWANGI merupakan kampus TI yang terlengkap di Banyuwangi. STIKOM BANYUWANGI memiliki Gedung Berlantai 3 dengan fasilitas - fasilitas yang sangat memadai untuk dunia IT. Dan sampai saat ini STIKOM terus menerus melakukan perubahan yang lebih baik dan mencetak lulusan - lulusan terbaik agar sesuai semboyan STIKOM BANYUWANGI",
+                "icon1": "fab fa-twitter",
+                "icon2": "fab fa-facebook-f",
+                "icon3": "fab fa-linkedin-in",
+                "icon4": "fab fa-instagram"
+            },
+            {
+                "judul": "Hubungi Kami",
+                "hubungi": [
+                    {
+                        "icon": "fa fa-map-marker-alt",
+                        "judul": "Alamat",
+                        "desk": "Jl. Jenderal Ahmad Yani No.80, Taman Baru, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416"
+                    },
+                    {
+                        "icon": "fa fa-envelope",
+                        "judul": "Email",
+                        "desk": "stikom@stikombanyuwangi.ac.id"
+                    },
+                    {
+                        "icon": "fa fa-phone-alt",
+                        "judul": "Phone",
+                        "desk": "(0333) 417902"
+                    }
+                ]
+            },
+            {
+                "judul": "Quick Links",
+                "text1": "home",
+                "text2": "Dosen Favorite",
+                "text3": "Aktivitas Mahasiswa"
+            },
+            {
+                "judul": "Tanya-tanya",
+                "inputName": "your Email",
+                "inputEmail": "Deskripsi",
+                "button": "Kirim"
+            }
+        ]
+    }
+}
